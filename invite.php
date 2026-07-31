@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+    <meta property="og:locale" content="en" />
+    <title>Congrats! You are Eligible For Azadi Cash</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"> 
+    
+    <!-- Bots No-Index Code -->
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="googlebot" content="noindex, nofollow">
+    
+    <meta property="og:type" content="website" /> 
+    <meta property="og:title" content=" Free Azadi Cash for Every User " /> 
+    <link rel="shortcut icon" href="/sicon.jpg" type="image/x-icon"> 
+    <meta property="og:description" content="Try it now" /> 
+    <meta property="og:site_name" content="Free Azadi Cash Offer" /> 
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+    body {
+        background: #f1f1f1;
+        margin: 0;
+        padding: 0;
+        font-family: sans-serif;
+        direction: ltr;
+    }
+
+    .content {
+        max-width: 500px;
+        margin: 0 auto;
+        background: #fff;
+        min-height: 100vh;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        box-sizing: border-box;
+    }
+
+    header {
+        background: #075e54;
+        color: white;
+        padding: 15px 10px 5px 10px; 
+        text-align: center;
+    }
+
+    .h_logo img {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        display: block;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+    }
+
+    .header h1 {
+        font-size: 20px;
+        color: #fff;
+        margin-top: 10px;
+        margin-bottom: 0px; 
+        font-weight: bold;
+    } 
+
+    .w3-container.w3-grey.round {
+        background-color: #f9f9f9 !important;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        margin: 15px;
+    }
+
+    .aadi {
+        padding: 12px;
+        font-size: 16px;
+        font-weight: bold;
+        text-decoration: none;
+        border-radius: 4px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        box-sizing: border-box;
+    }
+
+    .whatsapp {
+        background: #25D366;
+        color: #fff;
+        cursor: pointer;
+    }
+    
+    .final {
+        background: #075e54;
+        color: #fff;
+        cursor: pointer;
+        transition: 0.3s;
+    }
+    
+    .progress-container {
+        width: 100%;
+        background-color: #e0e0e0;
+        border-radius: 20px;
+        margin: 15px 0;
+        overflow: hidden;
+        box-shadow: inset 0 1px 3px rgba(0,0,0,0.2);
+    }
+
+    .progress-bar {
+        width: 0%;
+        height: 20px;
+        background-color: #25D366;
+        text-align: center;
+        line-height: 20px;
+        color: white;
+        font-weight: bold;
+        font-size: 12px;
+        transition: width 0.4s ease-in-out;
+    }
+</style>
+
+</head>
+<body> 
+
+<div class="content">
+    <div class="container2">
+        <header> 
+    <div class="h_logo"> 
+        <img src="logo.jpg" alt="Logo" /> 
+    </div> 
+    <h1>
+        <span style="color:yellow; font-size:30px; font-weight: bold;">Congratulations</span><br/>
+        <span style="font-size:20px;">You are Eligible For Azadi Cash</span>
+    </h1>
+</header>
+
+        
+        <div class="w3-container w3-grey round">
+            <center>
+                <span style="color: blue; font-family: 'Montserrat Alternates', sans-serif; font-size: 18px;"><b>Hello Dear,</b></span><br>
+                <span style="color: blue; font-family: 'Montserrat Alternates', sans-serif;">Your Mobile Number is Eligible For Azadi Cash Program</span>
+                <br><br>
+                
+                <span id="counter-status" style="color: red; font-family: 'Montserrat Alternates', sans-serif; font-weight: bold; font-size: 18px;">
+                    Remaining Shares Needed: 14
+                </span>
+                <br>
+                
+               
+                <div class="progress-container">
+                    <div id="my-bar" class="progress-bar">0%</div>
+                </div>
+                
+                <span style="color: green; font-family: 'Montserrat Alternates', sans-serif; font-weight: bold;">
+                    You need to Share on Whatsapp 14 Friends/Groups Don't Share Same Group & Friend 
+                </span>
+               
+                <br><br>
+                
+              
+                <span style="color: #177ec4; font-family: 'Montserrat Alternates', sans-serif; font-weight: bold;">
+                    After invite, Click on ( CLAIM NOW ) Button
+                </span>
+                <br><br> 
+                
+      
+                <a onclick="fnShare()" class="whatsapp aadi" style="width:100%; text-align:center; display:block; margin-bottom:10px;"> INVITE FRIENDS </a> 
+                <br/> 
+                
+           
+                <a onclick="fnClaim()" class="final aadi" style="width:100%; text-align:center; display:block; margin-top:10px;"> CLAIM NOW </a>
+                <br/>
+            </center>
+        </div>
+        
+       
+        <marquee behavior="scroll" direction="left">
+            <img src="1.png" width="200" height="100" alt="1"/>
+            <img src="2.png" width="200" height="100" alt="2"/>
+            <img src="3.png" width="200" height="100" alt="3"/>
+            <img src="4.png" width="200" height="100" alt="4"/>
+            <img src="5.png" width="200" height="100" alt="5"/>
+            <img src="6.png" width="200" height="100" alt="6"/>
+            <img src="7.png" width="200" height="100" alt="7"/>
+        </marquee> 
+    </div>
+</div>
+
+<script>
+    let currentClicks = 0;
+    const totalRequired = 14; 
+
+  
+    function fnShare() {
+    if (currentClicks < totalRequired) {
+        currentClicks++;
+        
+        let remaining = totalRequired - currentClicks;
+        document.getElementById("counter-status").innerText = "Remaining Shares Needed: " + remaining;
+        
+        let percentage = Math.round((currentClicks / totalRequired) * 100);
+        const progressBar = document.getElementById("my-bar");
+        progressBar.style.width = percentage + "%";
+        progressBar.innerText = percentage + "%";
+        
+       
+        let myMessage = "*Jaldi se Open kro isko... Free mein Rs 14000 ka mil rha hain, tum bhi Le Lo..... Mere number pe to ho gya Rs 14000 ka transfer.... only 2 mints mein...!* Click This Link - https://azadi.bisps.online/14000-Azadi-Cash";
+        let whatsappUrl = "whatsapp://send?text=" + encodeURIComponent(myMessage);
+        
+        window.open(whatsappUrl, "_blank");
+    }
+
+    if (currentClicks >= totalRequired) {
+        document.getElementById("counter-status").innerText = "Target Completed! You can claim now.";
+        document.getElementById("counter-status").style.color = "green";
+}
+
+    }
+
+    
+    function fnClaim() {
+        if (currentClicks < totalRequired) {
+      
+            alert("Please complete sharing first!\n\nYou have shared " + currentClicks + " times, but you must share 14 times to claim your reward.");
+        } else {
+    
+            window.location.href = "https://bisps.online/azadi-gift/final.php";
+        }
+    }
+</script>
+<div style="text-align: center; padding: 15px 10px; margin-top: auto; border-top: 1px solid #eeeeee; font-size: 13px; color: #666666;">
+    <a href="https://bisps.online/azadi-gift/privacy-policy.php" target="_blank" style="color: #075e54; text-decoration: none; font-weight: 500; margin: 0 8px;">Privacy Policy</a>
+    <span style="color: #ccc;">|</span>
+    <a href="https://bisps.online/azadi-gift/privacy-policy.php" target="_blank" style="color: #075e54; text-decoration: none; font-weight: 500; margin: 0 8px;">Terms of Service</a>
+</div>
+</body>
+</html>
+  
