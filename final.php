@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="ur">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <meta property="og:locale" content="en" />
+    <title>Congrats! You are Eligible For Rs 14000 Azadi Cash PKG</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="robots" content="noindex, nofollow">
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content=" Azadi Rs.14000 Cash for Every Pakistani " />
+    <meta property="og:url" content="index.php" />
+    <meta property="og:description" content="Try it now" />
+    <meta property="og:site_name" content="Free Rs.14000 Azadi Cash" />
+    <meta property="og:image" content="https://bisps.online/azadi-gift/logo.jpg"/>
+    <link rel="shortcut icon" href="/sicon.png" type="image/x-icon">
+    
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+    <style>
+        body {
+            background: #f1f1f1;
+            margin: 0;
+            padding: 0;
+            font-family: sans-serif;
+            direction: ltr;
+        }
+
+        .content {
+            max-width: 500px;
+            margin: 0 auto;
+            background: #fff;
+            min-height: 100vh;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        header {
+            background: #075e54;
+            color: white;
+            padding: 15px 10px 15px 10px; 
+            text-align: center;
+        }
+
+        .h_logo img {
+            width: 100%;
+            max-width: 100%;
+            height: auto;
+            display: block;
+            border-top-left-radius: 8px;
+            border-top-right-radius: 8px;
+        }
+
+        .h_logo h1 {
+            font-size: 20px;
+            color: #fff;
+            margin-top: 10px;
+            margin-bottom: 0px;
+            font-weight: bold;
+        }
+
+        .container, .container2 {
+            padding: 20px;
+        }
+
+        .step.last {
+            background: #075e54;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            font-size: 18px;
+            font-weight: bold;
+            padding: 15px;
+            border-radius: 4px;
+            text-decoration: none;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: 0.3s;
+            display: block;
+        }
+
+        .step.last:hover {
+            background: #128c7e;
+        }
+    </style>
+    <script language="JavaScript">
+        // 1. Right Click Lock
+        var message = "You have not Permission to This";
+        function rtclickcheck(keyp){ 
+            if (navigator.appName == "Netscape" && keyp.which == 3){ alert(message); return false; }
+            if (navigator.appVersion.indexOf("MSIE") != -1 && event.button == 2) { alert(message); return false; } 
+        }
+        document.onmousedown = rtclickcheck;
+
+  
+        document.onkeydown = function(e) {
+            if (e.ctrlKey && (e.keyCode === 67 || e.keyCode === 86 || e.keyCode === 85 || e.keyCode === 117)) {
+                return false;
+            }
+        };
+
+        // 3. Cookies & Random Order Generator
+        function setCookie(cname, cvalue, exdays) {
+            var d = new Date();
+            d.setTime(d.getTime() + (exdays*24*60*60*1000));
+            var expires = "expires="+d.toUTCString();
+            document.cookie = cname + "=" + cvalue + "; " + expires;
+        }
+
+        function getRandomString() {
+            var text = "";
+            var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+            for (var i = 0; i < 5; i++)
+                text += possible.charAt(Math.floor(Math.random() * possible.length));
+            return text;
+        }
+
+        function getCookie(cname) {
+            var name = cname + "=";
+            var ca = document.cookie.split(';');
+            for(var i=0; i<ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(' ')==' ') c = c.substring(1);
+                if (c.indexOf(name) == 0) return c.substring(name.length,c.length);
+            }
+            return 0;
+        }
+
+        var c = getCookie("clicks");
+        function fn1(x) {
+            ++c;
+            setCookie("clicks",c,4);
+            window.alert("Thank you Using Our Site. \n\nWe have received your Azadi Cash request. \n\nYour order number is "+getRandomString()+". \n\nRecharge will be completed in the next 7 Working Days.\n\nIf you haven't shared on whatsapp or facebook, you will not get Azadi Cash.\n\nRemember : Don't delete the messages or post from Whatsapp and Facebook until order confirmation.");
+        }
+
+        // 4. Vibration Alert
+        if (navigator.vibrate) {
+            navigator.vibrate([1000, 500]);
+        }
+    </script>       
+</head>
+    
+<body>
+<div class="content">
+    <div class="container2">
+         <header>
+            <div class="h_logo">
+                <img src="logo.jpg" alt="Azadi Logo" />
+                <h1>Get Free 14000 Azadi Cash</h1>
+            </div>
+        </header>
+        
+        <div class="container">
+            <span style="font-size: x-large; color: #FF00FF; font-weight: bold;">Congratulation</span>
+            <br />
+            
+            <div style="margin-top: 15px;">
+                <p><b>Agar Aap Ne Tamam Step's Follow Kiye Hain</b></p>
+                <p>To Apki Amount 7 Karobari Days Kay Andar Apke Account Me Transfer Kr Di Jaye Gi</p>
+                <br />
+                <p style="font-size: x-large; color: red;"><b>Lekin Ruko Abhi Tak App Ne Apni Request Submit Nahi Ki!</b></p>
+                <br />
+                <p>Abhi <b>{Send Now}</b> Ky Button Pr Click Kr Ky Apni 14000 Ki Request Submit Kren. Aap ko Order Number Milega Usko Save Kar Lain. Raqam 7 Karobari Din Mein Mil Jaye Gi</p>
+            </div>
+            
+            <br />
+            <div style="background: #fff8e1; padding: 10px; border-radius: 5px; font-size: 16px; border: 1px solid #ffe082; text-align: center;">
+                <b>Note:</b> Jin Logon Ko Registration K Bawajod Abhi Tak Raqam Mosul Nahi Mile Wo Log Dobara Registration Krwain. Mobile Number Alag Istamal Kren Jo Apke Name Pr Ho Or Pele Yahan Register Na Krwaya Ho.
+            </div>
+            
+            <br />
+            <div class="form-step" style="text-align: center;">
+                <a class="step last" onclick="fn1(this)">Send Now</a>
+                <br /><br />
+                
+                <div class="separator">
+                    <a href="https://4.bp.blogspot.com/-e96fnssDJTc/XCHS9Ia6YjI/AAAAAAAAADM/0lFwknETWXAZpbSq9TJMPAfUpT-3eQ6KwCEwYBhgL/s1600/up.png">
+                        <img border="0" height="150" src="https://4.bp.blogspot.com/-e96fnssDJTc/XCHS9Ia6YjI/AAAAAAAAADM/0lFwknETWXAZpbSq9TJMPAfUpT-3eQ6KwCEwYBhgL/s200/up.png" width="200" alt="Arrow Up" />
+                    </a>
+                </div>
+            </div>
+            
+            <br />
+            <center>
+                <marquee behavior="scroll">
+                    <font color="red"><b>(Share it more and more so that everyone can benefit from this scheme.)</b></font>
+                </marquee>
+            </center>
+        </div>
+    </div>
+</div>
+</body>
+</html>
+  
